@@ -14,7 +14,7 @@ Objectives :
 
 Our Solution :
 1. Converted the Financial year to data format using EDA.
-2. Examined the Sales of ABC Manufacturing with the other comapnies and also the sales of the comapny in different states.
+2. Examined the Sales of ABC Manufacturing with the other comapanies and also the sales of the comapny in different states.
 3. Checked the Stationarity and converted the non stationary data into stationary.
 4. Used Time series analysis using SARIMA model because of seasonality.
 5. Forecasted the future sales of the Company using ML model i.e, Time series analysis.
